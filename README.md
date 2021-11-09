@@ -3,6 +3,7 @@
 | Title       | URL          | Description  |
 | ------------- |-------------| -----|
 | angel.co       | https://angel.co/| |
+| freelancermap.com      | https://www.freelancermap.com/projects/remote.html| |
 | remoteok.io      | https://remoteok.io/     |   |
 | remoters.net |  https://remoters.net/    |     |
 | remotive.io   |  https://remotive.io/    |     |
